@@ -1,5 +1,7 @@
 name = "my-app"
 compatibility_date = "2023-12-01"
+main = "src/index.ts"
+
 
 [vars]
 DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNjNiZTdmMjctMmViZC00MjBjLTkzM2YtMjFkYzI5OTJjMDUyIiwidGVuYW50X2lkIjoiMGQ5NDliZDdmMDQzMDQ3YmQyODFlNzY5ZWM3MmQ0MTQ2OGQwODhlOTU4MzQ2OWQzY2U3ZmFiNjFhNmYyZDUwMSIsImludGVybmFsX3NlY3JldCI6Ijk2OTYzODBjLTgzMjAtNDIyZS1iZGZjLTI4MzM0NGIwODU1MSJ9.LcmqOWDPM31lSViWsFinbpEZQxmar7oLeFvAoL2JA0c"
